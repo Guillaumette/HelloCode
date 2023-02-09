@@ -1,0 +1,15 @@
+D:\Documents\Программирование\GeekBrains курс\1 четверть\Знакомство с языками программирования (C#)\Examples\Examples001_HelloConsole\bin\Debug\net6.0\Examples001_HelloConsole.exe
+D:\Documents\Программирование\GeekBrains курс\1 четверть\Знакомство с языками программирования (C#)\Examples\Examples001_HelloConsole\bin\Debug\net6.0\Examples001_HelloConsole.deps.json
+D:\Documents\Программирование\GeekBrains курс\1 четверть\Знакомство с языками программирования (C#)\Examples\Examples001_HelloConsole\bin\Debug\net6.0\Examples001_HelloConsole.runtimeconfig.json
+D:\Documents\Программирование\GeekBrains курс\1 четверть\Знакомство с языками программирования (C#)\Examples\Examples001_HelloConsole\bin\Debug\net6.0\Examples001_HelloConsole.dll
+D:\Documents\Программирование\GeekBrains курс\1 четверть\Знакомство с языками программирования (C#)\Examples\Examples001_HelloConsole\bin\Debug\net6.0\Examples001_HelloConsole.pdb
+D:\Documents\Программирование\GeekBrains курс\1 четверть\Знакомство с языками программирования (C#)\Examples\Examples001_HelloConsole\obj\Debug\net6.0\Examples001_HelloConsole.csproj.AssemblyReference.cache
+D:\Documents\Программирование\GeekBrains курс\1 четверть\Знакомство с языками программирования (C#)\Examples\Examples001_HelloConsole\obj\Debug\net6.0\Examples001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Программирование\GeekBrains курс\1 четверть\Знакомство с языками программирования (C#)\Examples\Examples001_HelloConsole\obj\Debug\net6.0\Examples001_HelloConsole.AssemblyInfoInputs.cache
+D:\Documents\Программирование\GeekBrains курс\1 четверть\Знакомство с языками программирования (C#)\Examples\Examples001_HelloConsole\obj\Debug\net6.0\Examples001_HelloConsole.AssemblyInfo.cs
+D:\Documents\Программирование\GeekBrains курс\1 четверть\Знакомство с языками программирования (C#)\Examples\Examples001_HelloConsole\obj\Debug\net6.0\Examples001_HelloConsole.csproj.CoreCompileInputs.cache
+D:\Documents\Программирование\GeekBrains курс\1 четверть\Знакомство с языками программирования (C#)\Examples\Examples001_HelloConsole\obj\Debug\net6.0\Examples001_HelloConsole.dll
+D:\Documents\Программирование\GeekBrains курс\1 четверть\Знакомство с языками программирования (C#)\Examples\Examples001_HelloConsole\obj\Debug\net6.0\refint\Examples001_HelloConsole.dll
+D:\Documents\Программирование\GeekBrains курс\1 четверть\Знакомство с языками программирования (C#)\Examples\Examples001_HelloConsole\obj\Debug\net6.0\Examples001_HelloConsole.pdb
+D:\Documents\Программирование\GeekBrains курс\1 четверть\Знакомство с языками программирования (C#)\Examples\Examples001_HelloConsole\obj\Debug\net6.0\Examples001_HelloConsole.genruntimeconfig.cache
+D:\Documents\Программирование\GeekBrains курс\1 четверть\Знакомство с языками программирования (C#)\Examples\Examples001_HelloConsole\obj\Debug\net6.0\ref\Examples001_HelloConsole.dll
