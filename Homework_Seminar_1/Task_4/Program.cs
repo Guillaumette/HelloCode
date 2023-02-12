@@ -3,13 +3,8 @@
 Console.Write("Введите число: ");
 int number = Convert.ToInt32(Console.ReadLine());
 
-int even = 2;
-
-if(number > 1)
+for (int i = 2; i <= number; i += 2)
 {
-    while(even <= number)
-    {
-        Console.Write(even + " ");
-        even = even + 2;
-    }
+    Console.WriteLine(i);
 }
+
