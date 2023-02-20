@@ -69,4 +69,16 @@ string Method4(int count, string text)
 
 // Вызыываем:
 string res = Method4(count: 10, text: "z");
-Console.WriteLine(res);
+// Console.WriteLine(res);
+
+// Цикл в цикле. Вывод таблицы умножения на экран. Таблица умножения начинается с двух, поэтому изначально  i = 2.
+
+for (int i = 2; i <= 10; i++)
+{
+    for (int j = 2; j <= 10; j++)
+    {
+        Console.WriteLine($"{i} x {j} = {i * j}");
+    }
+    // Переход на новую строку после выполнения внутреннего цикла
+    Console.WriteLine();
+}
