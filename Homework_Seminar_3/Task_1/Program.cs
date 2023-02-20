@@ -6,7 +6,7 @@
 System.Console.Write("Введите число: ");
 string number = Console.ReadLine();
 
-if (number.Length < 5)
+if (number.Length < 5 | number.Length > 5)
 {
     System.Console.WriteLine("Число не является пятизначным");
 }
