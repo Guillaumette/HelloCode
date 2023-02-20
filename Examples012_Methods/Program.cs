@@ -42,15 +42,27 @@ int year = Method3();
 // Console.WriteLine(year);
 
 // Вид 4: Что-то принимают, что-то возвращают
+// string Method4(int count, string text)
+// {
+//    int i = 0;
+//    string result = String.Empty;
+
+//   while (i < count)
+//    {
+//       result = result + text;
+//        i++;
+//    }
+//    return result;
+// }
+
+// цикл for: for (инициализация внутренней переменной цикла; условие; инкремент (i++))
 string Method4(int count, string text)
 {
-    int i = 0;
+    
     string result = String.Empty;
-
-    while (i < count)
+    for (int i = 0; i < count; i++)
     {
         result = result + text;
-        i++;
     }
     return result;
 }
