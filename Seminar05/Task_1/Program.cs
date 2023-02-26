@@ -1,14 +1,14 @@
 ﻿// Задайте массив из 12 элементов, заполненный случайными числами из промежутка [-9, 9].
 // Найдите сумму отрицательных и положительных элементов массива.
 
-int[] GenerateArray(int size)
+int[] GenerateArray(int size, int leftRange, int rightRange)
 {
     int[] array = new int[size];
     Random rand = new Random();
 
     for (int i = 0; i < size; i++)
     {
-        array[i] = rand.Next(-9, 10);
+        array[i] = rand.Next(leftRange, rightRange + 1);
     }
     return array;
 }
@@ -34,8 +34,12 @@ void CountSum(int[] array, out int sumPositive, out int sumNegative)
         }
     }
 }
-var arr = GenerateArray(12);
 
+const int SIZE = 12;
+const int LEFT_RANGE = -9;
+const int RIGHT_RANGE = 9;
+
+var arr = GenerateArray(SIZE, LEFT_RANGE, RIGHT_RANGE);
 PrintArray(arr);
 CountSum(arr, out int sumPos, out int sumNeg);
 
