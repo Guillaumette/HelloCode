@@ -17,3 +17,5 @@ void GetBinaryView(int num)
 
 int N = ReadInt("Введите число: ");
 GetBinaryView(N);
+System.Console.WriteLine();
+System.Console.WriteLine(Convert.ToString(N, 2)); // способ конвертации, передаем число и через запятую систему, в которую хотим
