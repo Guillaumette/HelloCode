@@ -38,7 +38,7 @@ void PrintMatrix(int[,] matrix)
     }
 }
 
-void MyltiplyMatrix(int[,] matrix1, int[,] matrix2, int[,] result)
+void MultiplyMatrix(int[,] matrix1, int[,] matrix2, int[,] result)
 {
     for (int i = 0; i < result.GetLength(0); i++)
     {
@@ -67,6 +67,6 @@ PrintMatrix(myMatrix);
 System.Console.WriteLine();
 System.Console.WriteLine("Вторая матрица:");
 PrintMatrix(myMatrix2);
-MyltiplyMatrix(myMatrix, myMatrix2, resultMatrix);
+MultiplyMatrix(myMatrix, myMatrix2, resultMatrix);
 System.Console.WriteLine("Результат умножения первой и второй матриц:");
 PrintMatrix(resultMatrix);
