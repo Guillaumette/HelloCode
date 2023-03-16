@@ -22,5 +22,5 @@ if (m < n)
 }
 else
 {
-     WtiteNumbers(n, m);
+     WriteNumbers(n, m);
 }
