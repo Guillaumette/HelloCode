@@ -16,4 +16,11 @@ void WriteNumbers(int number1, int number2)
 
 int m = ReadInt("Введите число M: ");
 int n = ReadInt("Введите число N: ");
-WriteNumbers(m,n);
+if (m < n)
+{
+     WriteNumbers(m, n);
+}
+else
+{
+     WtiteNumbers(n, m);
+}
